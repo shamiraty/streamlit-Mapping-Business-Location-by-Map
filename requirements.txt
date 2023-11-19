@@ -7,6 +7,7 @@ numerize==0.12
 numpy==1.23.5
 oauthlib==3.2.2
 openpyxl==3.1.2
+streamlit-folium==0.15.0
 opt-einsum==3.3.0
 packaging==23.1
 pandas==2.0.1
